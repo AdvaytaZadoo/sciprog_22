@@ -1,0 +1,110 @@
+commit 252fcfdb7c45bc5a0a605c71abafbc98f67c59c8
+Author: unknown <advayta08@gmail.com>
+Date:   Tue Nov 22 18:47:35 2022 +0000
+
+    Codes for Practical10
+
+commit 708364f8fa2dd05ac0e517409965f26faad504b9
+Author: unknown <advayta08@gmail.com>
+Date:   Tue Nov 22 18:42:19 2022 +0000
+
+    Codes for Practical09
+
+commit 61a2b8b3713adc40862db100b1f1b584690e7679
+Author: unknown <advayta08@gmail.com>
+Date:   Mon Nov 21 23:51:21 2022 +0000
+
+    Codes for Practical08
+
+commit 26b9579f849fc653bef0b5a38123b8d2548b2102
+Author: unknown <advayta08@gmail.com>
+Date:   Mon Nov 21 23:28:49 2022 +0000
+
+    Added README files
+
+commit 483341adfa70a9542216e74ecb6e38b51cacdc6f
+Author: unknown <advayta08@gmail.com>
+Date:   Mon Nov 21 23:17:12 2022 +0000
+
+    Codes for Practical07
+
+commit 604d027c1f4373cf271ea2bb7841a4372c44a7e1
+Author: unknown <advayta08@gmail.com>
+Date:   Mon Nov 21 22:37:25 2022 +0000
+
+    Codes for Practical06
+
+commit 3f1f3232612b0c3481002326417f694ca860f0a4
+Author: unknown <advayta08@gmail.com>
+Date:   Mon Nov 21 22:21:48 2022 +0000
+
+    Codes for Practical06
+
+commit 0d65f12668f0e5c8ea1577bca815425d3dd5b941
+Author: unknown <advayta08@gmail.com>
+Date:   Sun Nov 20 01:21:55 2022 +0000
+
+    Codes for Practical05
+
+commit 151ce90625cc8fae510401ad5b802ebc79962b64
+Author: unknown <advayta08@gmail.com>
+Date:   Sun Nov 20 01:18:31 2022 +0000
+
+    Codes for Practical04
+
+commit 8f45ec81bb61b08bb1e99f90bdf444ee2c2969a3
+Author: unknown <advayta08@gmail.com>
+Date:   Sat Nov 19 02:00:52 2022 +0000
+
+    Codes for Practical03
+
+commit 5b1473fe6be868a85912ed37e7d34b1c7a30c886
+Author: unknown <advayta08@gmail.com>
+Date:   Sat Nov 19 01:58:22 2022 +0000
+
+    Codes for Practical02
+
+commit dde22032e88788e7de43187747b6b099eedada3f
+Author: AdvaytaZadoo <118477316+AdvaytaZadoo@users.noreply.github.com>
+Date:   Thu Nov 17 20:41:20 2022 +0000
+
+    Delete practical02 directory
+
+commit 48a2bf9d871642f7a3f80d85498cde7200dd7db5
+Author: unknown <advayta08@gmail.com>
+Date:   Thu Nov 17 20:37:41 2022 +0000
+
+    Codes for practical02
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
